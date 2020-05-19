@@ -1,0 +1,2992 @@
+[
+  {
+    "Name": "Bat",
+    "Wiki": "https://www.curseofaros.wiki/wiki/Bat",
+    "Status": {
+      "Level": 1,
+      "HP": 45,
+      "XP": 8,
+      "Gold": 1,
+      "Attack speed": "2s",
+      "Damage": 10,
+      "Respawn time": "2s",
+      "Found": "Brightleaf"
+    },
+    "Description": "The bat is the lowest level mob and can be found in Brightleaf, close to the starting area.",
+    "Drops": [
+      {
+        "Item": "Potion",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Weak Wooden Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Bronze Cap",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Bronze Chainbody",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Bronze Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Iron Cap",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Bat Orb",
+        "Categorie": "Other",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Bat Egg",
+        "Categorie": "Other",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Name": "Slime",
+    "Wiki": "https://www.curseofaros.wiki/wiki/Slime",
+    "Status": {
+      "Level": 4,
+      "HP": 120,
+      "XP": 16,
+      "Gold": 3,
+      "Attack speed": "1.6s",
+      "Damage": 18,
+      "Respawn time": "4s",
+      "Found": "Brightleaf"
+    },
+    "Description": "The slime is a level 4 creature found in the fields of Brightleaf.",
+    "Drops": [
+      {
+        "Item": "Potion",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Broaken Wooden Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Bronze Cap",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Bronze Chainbody",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Bronze Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Iron Cap",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Slime chunk",
+        "Categorie": "Pet",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Name": "Fishing spider",
+    "Wiki": "https://www.curseofaros.wiki/wiki/Fishing_spider",
+    "Status": {
+      "Level": 8,
+      "HP": 190,
+      "XP": 38,
+      "Gold": 6,
+      "Attack speed": "unknown",
+      "Damage": 30,
+      "Respawn time": "3s",
+      "Found": "Brightleaf"
+    },
+    "Description": "The fishing spider is a level 8 creature found near the lakes in Brightleaf.",
+    "Drops": [
+      {
+        "Item": "Potion",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Spider Silk",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Spider Carcass",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Weak Wooden Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Bronze Cap",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Bronze Chainbody",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Bronze Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Name": "Mushroom",
+    "Wiki": "https://www.curseofaros.wiki/wiki/Mushroom",
+    "Status": {
+      "Level": 10,
+      "HP": 215,
+      "XP": 46,
+      "Gold": 7,
+      "Attack speed": "2s",
+      "Damage": 34,
+      "Respawn time": "3s",
+      "Found": "Mushroom Island"
+    },
+    "Description": "Mushrooms are level 10 creatures that are found on an isolated island - Mushroom Island - only reachable through the Teleporter found nearby the Slime spawns.",
+    "Drops": [
+      {
+        "Item": "Potion",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Health Flask",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Weak Wooden Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Common",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Bronze Cap",
+        "Categorie": "Equipment",
+        "Rarity": "Common",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Bronze Chainbody",
+        "Categorie": "Equipment",
+        "Rarity": "Common",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Bronze Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Common",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Iron Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Common",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Nature Amulet",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Name": "Forest spider",
+    "Wiki": "https://www.curseofaros.wiki/wiki/Forest_spider",
+    "Status": {
+      "Level": 12,
+      "HP": 250,
+      "XP": 55,
+      "Gold": 6,
+      "Attack speed": "unknown",
+      "Damage": 40,
+      "Respawn time": "3s",
+      "Found": "Brightleaf/Wasteland"
+    },
+    "Description": "The forest spider is a level 12 creature found in the forests of Brightleaf and the Wasteland.",
+    "Drops": [
+      {
+        "Item": "Potion",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Spider Silk",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Spider Carcass",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Weak Wooden Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Common",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Bronze Cap",
+        "Categorie": "Equipment",
+        "Rarity": "Common",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Bronze Chainbody",
+        "Categorie": "Equipment",
+        "Rarity": "Common",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Bronze Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Common",
+        "Quantity": "1"
+      },
+      {
+        "Item":"Iron Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Name": "Forest bat",
+    "Wiki": "https://www.curseofaros.wiki/wiki/Forest_bat",
+    "Status": {
+      "Level": 15,
+      "HP": 350,
+      "XP": 60,
+      "Gold": 10,
+      "Attack speed": "1.3s",
+      "Damage": 45,
+      "Respawn time": "3s",
+      "Found": "Brightleaf"
+    },
+    "Description": "The forest bat is a level 15 creature found in the forests of Brightleaf.",
+    "Drops": [
+      {
+        "Item": "Potion",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Health Flask",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Iron Chainbody",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item":"Iron Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item":"Iron Cap",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item":"Nature Ring",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item":"Bat Orb",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item":"Nature Ring",
+        "Categorie": "Equipment",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Name": "Snow bat",
+    "Wiki": "https://www.curseofaros.wiki/wiki/Snow_bat",
+    "Status": {
+      "Level": 18,
+      "HP": 420,
+      "XP": 125,
+      "Gold": 35,
+      "Attack speed": "1.3s",
+      "Damage": 55,
+      "Respawn time": "10s",
+      "Found": "Wintermist"
+    },
+    "Description": "The snow bat is a level 18 creature found in the frozen world of Wintermist.",
+    "Drops": [
+      {
+        "Item": "Potion",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Health Flask",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item":"Iron Cap",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Iron Chainbody",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item":"Iron Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      
+      {
+        "Item":"Steel Cap",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item":"Snow bat wing",
+        "Categorie": "Pet",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Name": "Ice slime",
+    "Wiki": "https://www.curseofaros.wiki/wiki/Ice_slime",
+    "Status": {
+      "Level": 21,
+      "HP": 500,
+      "XP": 165,
+      "Gold": 45,
+      "Attack speed": "1.7s",
+      "Damage": 80,
+      "Respawn time": "10s",
+      "Found": "Wintermist"
+    },
+    "Description": "The ice slime is a level 21 creature found in the frozen world of Wintermist.",
+    "Drops": [
+      {
+        "Item": "Potion",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Health Flask",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "1"
+      },
+      {
+        "Item":"Iron Cap",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Iron Chainbody",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item":"Iron Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      
+      {
+        "Item":"Rusty Steel Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item":"Ice chunk",
+        "Categorie": "Pet",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Name": "Snowman",
+    "Wiki": "https://www.curseofaros.wiki/wiki/Snowman",
+    "Status": {
+      "Level": 25,
+      "HP": 590,
+      "XP": 210,
+      "Gold": 60,
+      "Attack speed": "1.4s",
+      "Damage": 70,
+      "Respawn time": "15s",
+      "Found": "Wintermist"
+    },
+    "Description": "The snowman is a level 25 creature found in the frozen world of Wintermist.",
+    "Drops": [
+      {
+        "Item": "Potion",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Health Flask",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "1"
+      },
+      {
+        "Item":"Iron Cap",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Iron Chainbody",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item":"Rusty Steel Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Common",
+        "Quantity": "1"
+      },
+      {
+        "Item":"Steel Cap",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item":"Steel Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item":"Crimsteel Cap",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item":"Crimsteel Boots",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item":"Snowball",
+        "Categorie": "Pet",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item":"Carrot",
+        "Categorie": "Pet",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Name": "Ice spider",
+    "Wiki": "https://www.curseofaros.wiki/wiki/Ice_spider",
+    "Status": {
+      "Level": 28,
+      "HP": 650,
+      "XP": 250,
+      "Gold": 80,
+      "Attack speed": "1.4s",
+      "Damage": 80,
+      "Respawn time": "3s",
+      "Found": "Wintermist"
+    },
+    "Description": "The ice spider is a level 28 creature found in the cold of Wintermist.",
+    "Drops": [
+      {
+        "Item": "Potion",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Health Flask",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Spider Silk",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Ice Crystal",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item":"Rusty Steel Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Common",
+        "Quantity": "1"
+      },
+      {
+        "Item":"Steel Cap",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item":"Steel Boots",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item":"Steel Chainbody",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item":"Steel Platebody",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item":"Steel Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item":"Sharper Steel Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item":"Crimsteel Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item":"Crimsteel Chainbody",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Name": "Skeletal snake",
+    "Wiki": "https://www.curseofaros.wiki/wiki/Skeletal_snake",
+    "Status": {
+      "Level": 30,
+      "HP": 730,
+      "XP": 300,
+      "Gold": 110,
+      "Attack speed": "1.4s",
+      "Damage": 75,
+      "Respawn time": "20s",
+      "Found": "Wasteland"
+    },
+    "Description": "The skeletal snake is a level 30 creature found in the dust of the Wasteland.",
+    "Drops": [
+      {
+        "Item": "Potion",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Health Flask",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Steel Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Steel Cap",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Steel Chainbody",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Sharper Steel Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Crimsteel Helm",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Crimsteel Platebody",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Crimsteel Platelegs",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Mythan Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Mythan Helm",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Mythan Platebody",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Mythan Platelegs",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Mythan Boots",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Sharper Mythan Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Chaotic Mythan Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Skeletal Snake Pet",
+        "Categorie": "Pet",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Name": "Cave spider",
+    "Wiki": "https://www.curseofaros.wiki/wiki/Cave_spider",
+    "Status": {
+      "Level": 34,
+      "HP": 810,
+      "XP": 350,
+      "Gold": 145,
+      "Attack speed": "1.3s",
+      "Damage": 85,
+      "Respawn time": "8s",
+      "Found": "Abandoned Mine"
+    },
+    "Description": "The Cave spider is a level 34 creature found in the dark corners of the Abandoned Mine.",
+    "Drops": [
+      {
+        "Item": "Potion",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Health Flask",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Spider Silk",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Sharper Steel Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Crimsteel Boots",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Crimsteel Platebody",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Crimsteel Platelegs",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Crimsteel Helm",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Crimsteel Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Mythan Boots",
+        "Categorie": "Pet",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Name": "Skeletal bat",
+    "Wiki": "https://www.curseofaros.wiki/wiki/Cave_Bat",
+    "Status": {
+      "Level": 35,
+      "HP": 900,
+      "XP": 385,
+      "Gold": 170,
+      "Attack speed": "1.3s",
+      "Damage": 100,
+      "Respawn time": "20s",
+      "Found": "Wasteland"
+    },
+    "Description": "The skeletal bat is a level 35 creature found in the dust of the Wasteland.",
+    "Drops": [
+      {
+        "Item": "Potion",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Health Flask",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "1-2"
+      },
+      {
+        "Item": "Steel Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Sharper Steel Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Steel Platebody",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Steel Cap",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Crimsteel Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Crimsteel Boots",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Crimsteel Platelegs",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Crimsteel Platebody",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Crimsteel Helm",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Mythan Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Sharper Mythan Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Mythan Boots",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Mythan Platebody",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Mythan Platelegs",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Mythan Helm",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Chaotic Mythan Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Skeletal Bat Pet",
+        "Categorie": "Pet",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Name": "Cave Bat",
+    "Wiki": "https://www.curseofaros.wiki/wiki/Cave_Bat",
+    "Status": {
+      "Level": 43,
+      "HP": 	1250,
+      "XP": 560,
+      "Gold": 220,
+      "Attack speed": "unknown ",
+      "Damage": 0,
+      "Respawn time": "10s",
+      "Found": "Abandoned Mine"
+    },
+    "Description": "The Cave bat is a level 43 creature found in the dark corners of the Abandoned Mine.",
+    "Drops": [
+      {
+        "Item": "Potion",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "4-8"
+      },
+      {
+        "Item": "Health Flask",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "1-2"
+      },
+      {
+        "Item": "Flask of Life",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Mythan Pickaxe",
+        "Categorie": "Equipment",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Mythan Boots",
+        "Categorie": "Equipment",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Mythan Platelegs",
+        "Categorie": "Equipment",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Mythan Platebody",
+        "Categorie": "Equipment",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Mythan Helm",
+        "Categorie": "Equipment",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Chaotic Mythan Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Cave Bat Pet",
+        "Categorie": "Pet",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Name": "Ice fiend",
+    "Wiki": "https://www.curseofaros.wiki/wiki/Ice_fiend",
+    "Status": {
+      "Level": 47,
+      "HP": 1800,
+      "XP": 850,
+      "Gold": 280,
+      "Attack speed": "1.2s",
+      "Damage": 200,
+      "Respawn time": "11s",
+      "Found": "Wintermist"
+    },
+    "Description": "The Ice fiend is a level 47 creature found in Wintermist, just below the area of the Snowmen.",
+    "Drops": [
+      {
+        "Item": "Health Flask",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "1-5"
+      },
+      {
+        "Item": "Flask of Life",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Vitality",
+        "Categorie": "Resources",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Mythan Pickaxe",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Mythan Helm",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Mythan Platebody",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Mythan Platelegs",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Mythan Boots",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Chaotic Mythan Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Glacial Blade",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Ice Fiend Pet",
+        "Categorie": "Pet",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Name": "Raptor",
+    "Wiki": "https://www.curseofaros.wiki/wiki/Raptor",
+    "Status": {
+      "Level": 49,
+      "HP": 1875,
+      "XP": 900,
+      "Gold": 315,
+      "Attack speed": "1.2s",
+      "Damage": 225,
+      "Respawn time": "15s",
+      "Found": "South-West of Brightleaf"
+    },
+    "Description": "Raptors are medium-leveled dinosaurs that can be found South-West of Brightleaf, traveling from the spawn area to the East, and following the path South.",
+    "Drops": [
+      {
+        "Item": "Potion",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "5-12"
+      },
+      {
+        "Item": "Health Flask",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Amulet String",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Heart of Grace",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Pet Raptor (item)",
+        "Categorie": "Pet",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Name": "Forest fiend",
+    "Wiki": "https://www.curseofaros.wiki/wiki/Ice_fiend",
+    "Status": {
+      "Level": 53,
+      "HP": 2000,
+      "XP": 1080,
+      "Gold": 325,
+      "Attack speed": "1.3s",
+      "Damage": 250,
+      "Respawn time": "14s",
+      "Found": "South of the slimes, in the forests of Brightleaf"
+    },
+    "Description": "The Forest fiend is a level 53 creature found in the forests of Brightleaf.",
+    "Drops": [
+      {
+        "Item": "Health Flask",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Flask of Life",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Scroll of Vitality",
+        "Categorie": "Resources",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Mythan Helm",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Mythan Platebody",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Mythan Platelegs",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Mythan Boots",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Chaotic Mythan Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Mythan Pickaxe",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Nature's Blade",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Forest Fiend Pet",
+        "Categorie": "Pet",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Name": "Rock fiend",
+    "Wiki": "https://www.curseofaros.wiki/wiki/Rock_fiend",
+    "Status": {
+      "Level": 60,
+      "HP": 2850,
+      "XP": 2000,
+      "Gold": 390,
+      "Attack speed": "unknown",
+      "Damage": 0,
+      "Respawn time": "8s",
+      "Found": "Abandoned Mine"
+    },
+    "Description": "The Rock fiend is a level 60 creature found in the dark corners of the Abandoned Mine.",
+    "Drops": [
+      {
+        "Item": "Health Flask",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "1-6"
+      },
+      {
+        "Item": "Flask of Life",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "1-2"
+      },
+      {
+        "Item": "Scroll of Vitality",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Accuracy",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Power",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Protection",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Rejuvenation",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Deflection",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Mythan Helm",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Mythan Platebody",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Mythan Platelegs",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Mythan Boots",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Mythan Pickaxe",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Chaotic Mythan Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Cobalt Pickaxe",
+        "Categorie": "Equipment",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Deadrock Helm",
+        "Categorie": "Equipment",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Deadrock Body",
+        "Categorie": "Equipment",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Deadrock Legs",
+        "Categorie": "Equipment",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Deadrock Boots",
+        "Categorie": "Equipment",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Rock Fiend Pet",
+        "Categorie": "Pet",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Name": "Giant hornet",
+    "Wiki": "https://www.curseofaros.wiki/wiki/Giant_hornet",
+    "Status": {
+      "Level": 62,
+      "HP": 0,
+      "XP": 2100,
+      "Gold": 400,
+      "Attack speed": "unknown",
+      "Damage": 0,
+      "Respawn time": "5s",
+      "Found": "Southwest Brightleaf"
+    },
+    "Description": "Giant Hornets have a Vicious sting and will not stop till either you are they are dead.",
+    "Drops": [
+      {
+        "Item": "Health Flask",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "1-7"
+      },
+      {
+        "Item": "Flask of Life",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "1-2"
+      },
+      {
+        "Item": "Scroll of Vitality",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Accuracy",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Power",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Protection",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Rejuvenation",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Deflection",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Prospector's Necklace",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Infernal Ring",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Name": "Luminant slime",
+    "Wiki": "https://www.curseofaros.wiki/wiki/Luminant_slime",
+    "Status": {
+      "Level": 65,
+      "HP": 3000,
+      "XP": 2200,
+      "Gold": 400,
+      "Attack speed": "1.2s",
+      "Damage": 350,
+      "Respawn time": "10s",
+      "Found": "Varaxis"
+    },
+    "Description": "The Luminant Slime is a level 65 creature found in the Dark and mysterious land of Varaxis.",
+    "Drops": [
+      {
+        "Item": "Health Flask",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "2-6"
+      },
+      {
+        "Item": "Flask of Life",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "1-2"
+      },
+      {
+        "Item": "Scroll of Vitality",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-11"
+      },
+      {
+        "Item": "Scroll of Accuracy",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-11"
+      },
+      {
+        "Item": "Scroll of Power",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-11"
+      },
+      {
+        "Item": "Scroll of Protection",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-11"
+      },
+      {
+        "Item": "Scroll of Rejuvenation",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-11"
+      },
+      {
+        "Item": "Scroll of Deflection",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-11"
+      },
+      {
+        "Item": "Luminant chunk",
+        "Categorie": "Pet",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Name": "Ancient bat",
+    "Wiki": "https://www.curseofaros.wiki/wiki/Ancient_bat",
+    "Status": {
+      "Level": 70,
+      "HP": 3300,
+      "XP": 2400,
+      "Gold": 435,
+      "Attack speed": "1.3s",
+      "Damage": 360,
+      "Respawn time": "10s",
+      "Found": "The Frozen Tunnels"
+    },
+    "Description": "The Ancient bat can be found roaming the tight spaces of The Frozen Tunnels.",
+    "Drops": [
+      {
+        "Item": "Health Flask",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "2-6"
+      },
+      {
+        "Item": "Flask of Life",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "1-2"
+      },
+      {
+        "Item": "Scroll of Vitality",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Accuracy",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Power",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Protection",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Rejuvenation",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Deflection",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Prison Key",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Ring of Might",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Glacial Boots",
+        "Categorie": "Equipment",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Ancient Bat Egg",
+        "Categorie": "Pet",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Name": "Ice raptor",
+    "Wiki": "https://www.curseofaros.wiki/wiki/Ice_raptor",
+    "Status": {
+      "Level": 73,
+      "HP": 3700,
+      "XP": 2750,
+      "Gold": 450,
+      "Attack speed": "1.0s",
+      "Damage": 350,
+      "Respawn time": "15s",
+      "Found": "Southern Wintermist"
+    },
+    "Description": "This Monster is found in Southern Wintermist and is known for tearing things apart with its extremly sharp claws.",
+    "Drops": [
+      {
+        "Item": "Health Flask",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "3-5"
+      },
+      {
+        "Item": "Flask of Life",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "1-2"
+      },
+      {
+        "Item": "Scroll of Vitality",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Accuracy",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Power",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Protection",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Rejuvenation",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Deflection",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-2"
+      },
+      {
+        "Item": "Icy left half",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Icy right half",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Frozen skull",
+        "Categorie": "Resources",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Name": "Spectral flame",
+    "Wiki": "https://www.curseofaros.wiki/wiki/Spectral_flame",
+    "Status": {
+      "Level": 75,
+      "HP": 3600,
+      "XP": 2700,
+      "Gold": 485,
+      "Attack speed": "1.4s",
+      "Damage": 385,
+      "Respawn time": "10s",
+      "Found": "The Ancient Prison"
+    },
+    "Description": "The Spectral flame has escaped its cell and is on the loose in The Ancient Prison.",
+    "Drops": [
+      {
+        "Item": "Health Flask",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "3-9"
+      },
+      {
+        "Item": "Flask of Life",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Vitality",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Accuracy",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Power",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Protection",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Rejuvenation",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Deflection",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Spectral Boots",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Name": "Phantom flame",
+    "Wiki": "https://www.curseofaros.wiki/wiki/Phantom_flame",
+    "Status": {
+      "Level": 80,
+      "HP": 3600,
+      "XP": 2900,
+      "Gold": 500,
+      "Attack speed": "1.4s",
+      "Damage": 385,
+      "Respawn time": "10s",
+      "Found": "The Ancient Prison"
+    },
+    "Description": "The Phantom flame has escaped its cell and is on the loose in The Ancient Prison.",
+    "Drops": [
+      {
+        "Item": "Health Flask",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "3-9"
+      },
+      {
+        "Item": "Flask of Life",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Vitality",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Accuracy",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Power",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Protection",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Rejuvenation",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Deflection",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Phantom Boots",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Name": "Spectral fiend",
+    "Wiki": "https://www.curseofaros.wiki/wiki/Spectral_fiend",
+    "Status": {
+      "Level": 	85,
+      "HP": 3950,
+      "XP": 3100,
+      "Gold": 520,
+      "Attack speed": "1.3s",
+      "Damage": 420,
+      "Respawn time": "15s",
+      "Found": "The Ancient Prison"
+    },
+    "Description": "The Spectral fiend has escaped its cell and is on the loose in The Ancient Prison.",
+    "Drops": [
+      {
+        "Item": "Health Flask",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "3-10"
+      },
+      {
+        "Item": "Flask of Life",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "1-4"
+      },
+      {
+        "Item": "Scroll of Vitality",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Accuracy",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Power",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Protection",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Rejuvenation",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Deflection",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Spectral Platelegs",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Spectral Breastplate",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Name": "Phantom fiend",
+    "Wiki": "https://www.curseofaros.wiki/wiki/Phantom_fiend",
+    "Status": {
+      "Level": 	88,
+      "HP": 4500,
+      "XP": 3600,
+      "Gold": 580,
+      "Attack speed": "1.3s",
+      "Damage": 445,
+      "Respawn time": "15s",
+      "Found": "The Ancient Prison"
+    },
+    "Description": "The Phantom fiend has escaped its cell and is on the loose in The Ancient Prison.",
+    "Drops": [
+      {
+        "Item": "Health Flask",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "3-10"
+      },
+      {
+        "Item": "Flask of Life",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "1-4"
+      },
+      {
+        "Item": "Scroll of Vitality",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Accuracy",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Power",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Protection",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Rejuvenation",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Deflection",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Phantom Platelegs",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Phantom Breastplate",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Phantom Fiend Pet",
+        "Categorie": "Pet",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Name": "Ancient cyclops",
+    "Wiki": "https://www.curseofaros.wiki/wiki/Ancient_cyclops",
+    "Status": {
+      "Level": 90,
+      "HP": 5000,
+      "XP": 4000,
+      "Gold": 650,
+      "Attack speed": "1.8s",
+      "Damage": 650,
+      "Respawn time": "15s",
+      "Found": "The Ancient Prison"
+    },
+    "Description": "The Ancient cyclops have taken over the deepest part of The Ancient Prison.",
+    "Drops": [
+      {
+        "Item": "Health Flask",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "4-12"
+      },
+      {
+        "Item": "Flask of Life",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "2-7"
+      },
+      {
+        "Item": "Scroll of Vitality",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-7"
+      },
+      {
+        "Item": "Scroll of Accuracy",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-7"
+      },
+      {
+        "Item": "Scroll of Power",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-7"
+      },
+      {
+        "Item": "Scroll of Protection",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-7"
+      },
+      {
+        "Item": "Scroll of Rejuvenation",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-7"
+      },
+      {
+        "Item": "Scroll of Deflection",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-7"
+      },
+      {
+        "Item": "Spectral Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Phantom Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Name": "Golemite bat",
+    "Wiki": "https://www.curseofaros.wiki/wiki/Golemite_bat",
+    "Status": {
+      "Level": 95,
+      "HP": 5300,
+      "XP": 4400,
+      "Gold": 675,
+      "Attack speed": "1.4s",
+      "Damage": 525,
+      "Respawn time": "10s",
+      "Found": "Varaxis"
+    },
+    "Description": "Golemite bats like to gather in groups. They feel safer together within the dense woods this way.",
+    "Drops": [
+      {
+        "Item": "Health Flask",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "3-8"
+      },
+      {
+        "Item": "Flask of Life",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "2-5"
+      },
+      {
+        "Item": "Scroll of Vitality",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-11"
+      },
+      {
+        "Item": "Scroll of Accuracy",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-11"
+      },
+      {
+        "Item": "Scroll of Power",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-11"
+      },
+      {
+        "Item": "Scroll of Protection",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-11"
+      },
+      {
+        "Item": "Scroll of Rejuvenation",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-11"
+      },
+      {
+        "Item": "Scroll of Deflection",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-11"
+      },
+      {
+        "Item":"Golemite Artifact",
+        "Categorie": "Boss Parts",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Golemite Shard",
+        "Categorie": "Boss Parts",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Golemite Slab",
+        "Categorie": "Boss Parts",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Name": "Golemite fiend",
+    "Wiki": "https://www.curseofaros.wiki/wiki/Golemite_fiend",
+    "Status": {
+      "Level": 100,
+      "HP": 5800,
+      "XP": 5270,
+      "Gold": 700,
+      "Attack speed": "1.2s",
+      "Damage": 500,
+      "Respawn time": "15s",
+      "Found": "Varaxis/Temple of Varaxis"
+    },
+    "Description": "Golemite bats like to gather in groups. They feel safer together within the dense woods this way.",
+    "Drops": [
+      {
+        "Item": "Health Flask",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "2-6"
+      },
+      {
+        "Item": "Flask of Life",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Vitality",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-11"
+      },
+      {
+        "Item": "Scroll of Accuracy",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-11"
+      },
+      {
+        "Item": "Scroll of Power",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-11"
+      },
+      {
+        "Item": "Scroll of Protection",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-11"
+      },
+      {
+        "Item": "Scroll of Rejuvenation",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-11"
+      },
+      {
+        "Item": "Scroll of Deflection",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-11"
+      },
+      {
+        "Item":"Golemite Artifact",
+        "Categorie": "Boss Parts",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Golemite Shard",
+        "Categorie": "Boss Parts",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Golemite Slab",
+        "Categorie": "Boss Parts",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Name": "Baby dragon",
+    "Wiki": "https://www.curseofaros.wiki/wiki/Baby_dragon",
+    "Status": {
+      "Level": 110,
+      "HP": 6500,
+      "XP": 5750,
+      "Gold": 800,
+      "Attack speed": "1.8s",
+      "Damage": 715,
+      "Respawn time": "15s",
+      "Found": "Umbra's Lair"
+    },
+    "Description": "Baby Dragons are scattered throughout Umbra's Lair. They don't attack like normal monsters do, they shoot fire balls resulting in Ranged damage and can cause a Burn Effect. \nBaby Dragon burn damage is only 100 Burn damage per Second for 10 seconds.",
+    "Drops": [
+      {
+        "Item": "Health Flask",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "2-10"
+      },
+      {
+        "Item": "Flask of Life",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-7"
+      },
+      {
+        "Item": "Scroll of Power",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-8"
+      },
+      {
+        "Item": "Scroll of Protection",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-8"
+      },
+      {
+        "Item": "Scroll of Accuracy",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-8"
+      },
+      {
+        "Item": "Ring of Might",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Mythan Helm",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Varaxite Platelegs",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item":"Dragon Scale",
+        "Categorie": "Boss Parts",
+        "Rarity": "Uncommon",
+        "Quantity": "1-8"
+      },
+      {
+        "Item": "Dragon Claw",
+        "Categorie": "Boss Parts",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Dragon Horn",
+        "Categorie": "Boss Parts",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Name": "War bat",
+    "Wiki": "https://www.curseofaros.wiki/wiki/War_bat",
+    "Status": {
+      "Level": 25,
+      "HP": 2500,
+      "XP": 1200,
+      "Gold": 800,
+      "Attack speed": "1.5s",
+      "Damage": 100,
+      "Respawn time": "30s",
+      "Found": "Inside the War Bat Dungeon, entered with a Bat Orb m.png Bat Orb."
+    },
+    "Description": "The War Bat is a large bat found in a dark cave, which can be entered through the tombstone found north of Brightleaf. To enter the dungeon, you need a Bat Orb which can be obtained from either Bats or Forest bats.",
+    "Drops": [
+      {
+        "Item": "Potion",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "5-10"
+      },
+      {
+        "Item": "Health Flask",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "3-5"
+      },
+      {
+        "Item": "Flask of Life",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-2"
+      },
+      {
+        "Item": "Crimsteel Helm",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Crimsteel Platebody",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Crimsteel Platelegs",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Crimsteel Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Bat Ring",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Bat Amulet",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Name": "Rock Demon",
+    "Wiki": "https://www.curseofaros.wiki/wiki/Rock_Demon",
+    "Status": {
+      "Level": 110,
+      "HP": 25000,
+      "XP": 10000,
+      "Gold": 4000,
+      "Attack speed": "1.5s",
+      "Damage": 700,
+      "Respawn time": "N/As",
+      "Found": "Abandoned Mine"
+    },
+    "Description": "The Rock Demon is a Boss found in the Abandoned Mine's and has a small percent chance of spawning when a player kills a Rock fiend.",
+    "Drops": [
+      {
+        "Item": "Health Flask",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "50-100"
+      },
+      {
+        "Item": "Flask of Life",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "10-25"
+      },
+      {
+        "Item": "Scroll of Vitality",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "2-5"
+      },
+      {
+        "Item": "Scroll of Accuracy",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "2-5"
+      },
+      {
+        "Item": "Scroll of Power",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "2-5"
+      },
+      {
+        "Item": "Scroll of Protection",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "2-5"
+      },
+      {
+        "Item": "Scroll of Rejuvenation",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "2-5"
+      },
+      {
+        "Item": "Scroll of Deflection",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "2-5"
+      },
+      {
+        "Item": "Amulet of Focus",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Cobalt Pickaxe",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Deadrock Helm",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Deadrock Body",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Deadrock Legs",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Deadrock Boots",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Rock Fiend Pet",
+        "Categorie": "Pet",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Name": "Ancient War Bat",
+    "Wiki": "https://www.curseofaros.wiki/wiki/Ancient_War_Bat",
+    "Status": {
+      "Level": 120,
+      "HP": 30000,
+      "XP": 12000,
+      "Gold": 5000,
+      "Attack speed": "1.5s",
+      "Damage": 850,
+      "Respawn time": "30s",
+      "Found": "The Frozen Tunnels"
+    },
+    "Description": "The Ancient War Bat is a Boss that can be found in The Frozen Tunnels. It is known for being the only place to obtain the chilly Glacial Helm, Glacial Body, and Glacial Legs.",
+    "Drops": [
+      {
+        "Item": "Health Flask",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "50-90"
+      },
+      {
+        "Item": "Flask of Life",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "15-30"
+      },
+      {
+        "Item": "Scroll of Vitality",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "2-4"
+      },
+      {
+        "Item": "Scroll of Accuracy",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "2-4"
+      },
+      {
+        "Item": "Scroll of Power",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "2-4"
+      },
+      {
+        "Item": "Scroll of Protection",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "2-4"
+      },
+      {
+        "Item": "Scroll of Rejuvenation",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "2-4"
+      },
+      {
+        "Item": "Scroll of Deflection",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "2-4"
+      },
+      {
+        "Item": "Glacial Boots",
+        "Categorie": "Equipment",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Glacial Legs",
+        "Categorie": "Equipment",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Glacial Body",
+        "Categorie": "Equipment",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Glacial Helm",
+        "Categorie": "Equipment",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Name": "Ice Demon",
+    "Wiki": "https://www.curseofaros.wiki/wiki/Ice_Demon",
+    "Status": {
+      "Level": 130,
+      "HP": 35000,
+      "XP": 16500,
+      "Gold": 7500,
+      "Attack speed": "1.4s",
+      "Damage": 1000,
+      "Respawn time": "30s",
+      "Found": "Ancient Prison"
+    },
+    "Description": "The Ice Demon is a Boss that can be found in the Ancient Prison. Entering the boss chamber costs a fee of 5,000 Gold. It is known for being the only source of the powerful Phantom Helm and Spectral Helm's.",
+    "Drops": [
+      {
+        "Item": "Health Flask",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "75-120"
+      },
+      {
+        "Item": "Flask of Life",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "20-35"
+      },
+      {
+        "Item": "Scroll of Vitality",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-5"
+      },
+      {
+        "Item": "Scroll of Accuracy",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-5"
+      },
+      {
+        "Item": "Scroll of Power",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-5"
+      },
+      {
+        "Item": "Scroll of Protection",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-5"
+      },
+      {
+        "Item": "Scroll of Rejuvenation",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-5"
+      },
+      {
+        "Item": "Scroll of Deflection",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-5"
+      },
+      {
+        "Item": "Spectral Helm",
+        "Categorie": "Equipment",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Phantom Helm",
+        "Categorie": "Equipment",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Name": "Golem",
+    "Wiki": "https://www.curseofaros.wiki/wiki/Golem",
+    "Status": {
+      "Level": 330,
+      "HP": 0,
+      "XP": 	22500,
+      "Gold": 8500,
+      "Attack speed": "1s",
+      "Damage": 0,
+      "Respawn time": "60s",
+      "Found": "Varaxis/Temple of Varaxis"
+    },
+    "Description": "The Golem is a Boss that can be found in the Temple of Varaxis. Watchout for falling ceilings! . The Golem drops many different Boss Parts that can be crafted into very powerful level 85 armor at 65 smithing.",
+    "Drops": [
+      {
+        "Item": "Health Flask",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "100-200"
+      },
+      {
+        "Item": "Flask of Life",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "30-60"
+      },
+      {
+        "Item": "Prison Key",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "2-10"
+      },
+      {
+        "Item": "Lollipop",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Vitality",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-9"
+      },
+      {
+        "Item": "Scroll of Accuracy",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-9"
+      },
+      {
+        "Item": "Scroll of Power",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-9"
+      },
+      {
+        "Item": "Scroll of Protection",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-9"
+      },
+      {
+        "Item": "Scroll of Rejuvenation",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-9"
+      },
+      {
+        "Item": "Scroll of Deflection",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-9"
+      },
+      {
+        "Item": "Cobalt Helm",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1-2"
+      },
+      {
+        "Item": "Mythan Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1-2"
+      },
+      {
+        "Item": "Mythan Pickaxe",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1-2"
+      },
+      {
+        "Item": "Varaxite Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1-2"
+      },
+      {
+        "Item": "Varaxite Pickaxe",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1-2"
+      },
+      {
+        "Item": "Saving Grace",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Golemite Shard",
+        "Categorie": "Boss Parts",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Golemite Slab",
+        "Categorie": "Boss Parts",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Golemite Orb",
+        "Categorie": "Boss Parts",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Eye of Golemite",
+        "Categorie": "Boss Parts",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Name": "Umbra",
+    "Wiki": "https://www.curseofaros.wiki/wiki/Umbra,_Guardian_of_Varaxis",
+    "Status": {
+      "Level": 350,
+      "HP": 0,
+      "XP": 	24000,
+      "Gold": 10000,
+      "Attack speed": "unknown",
+      "Damage": 0,
+      "Respawn time": "60s",
+      "Found": "Umbra's Lair"
+    },
+    "Description": "Umbra, Guardian of Varaxis is a Boss that can be found in Umbra's Lair. Watchout for Dragonfire! . Umbra drops many different Boss Parts that can be crafted into very powerful level 90 armor at 70 smithing. (This armor is untradable after crafting)",
+    "Drops": [
+      {
+        "Item": "Health Flask",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "150-450"
+      },
+      {
+        "Item": "Flask of Life",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "35-80"
+      },
+      {
+        "Item": "Prison Key",
+        "Categorie": "Resources",
+        "Rarity": "Common",
+        "Quantity": "2-10"
+      },
+      {
+        "Item": "Lollipop",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Scroll of Vitality",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-9"
+      },
+      {
+        "Item": "Scroll of Accuracy",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-9"
+      },
+      {
+        "Item": "Scroll of Power",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-9"
+      },
+      {
+        "Item": "Scroll of Protection",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-9"
+      },
+      {
+        "Item": "Scroll of Rejuvenation",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-9"
+      },
+      {
+        "Item": "Scroll of Deflection",
+        "Categorie": "Resources",
+        "Rarity": "Uncommon",
+        "Quantity": "3-9"
+      },
+      {
+        "Item": "Mythan Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1-4"
+      },
+      {
+        "Item": "Mythan Pickaxe",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1-4"
+      },
+      {
+        "Item": "Varaxite Sword",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1-2"
+      },
+      {
+        "Item": "Saving Grace",
+        "Categorie": "Equipment",
+        "Rarity": "Uncommon",
+        "Quantity": "1-3"
+      },
+      {
+        "Item": "Dragon Scale",
+        "Categorie": "Boss Parts",
+        "Rarity": "Uncommon",
+        "Quantity": "2-15"
+      },
+      {
+        "Item": "Dragon Claw",
+        "Categorie": "Boss Parts",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Dragon Horn",
+        "Categorie": "Boss Parts",
+        "Rarity": "Rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Dragon Eye",
+        "Categorie": "Boss Parts",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      },
+      {
+        "Item": "Umbra pet",
+        "Categorie": "Pet",
+        "Rarity": "Very rare",
+        "Quantity": "1"
+      }
+    ]
+  }
+]
