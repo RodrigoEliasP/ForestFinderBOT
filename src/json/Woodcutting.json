@@ -1,0 +1,47 @@
+[
+    {
+       "level":"1",
+       "xp":" Pine Logs",
+       "item":"10"
+    },
+    {
+       "level":"5",
+       "xp":" Dead Logs",
+       "item":"20"
+    },
+    {
+       "level":"10",
+       "xp":" Birch Logs",
+       "item":"50"
+    },
+    {
+       "level":"20",
+       "xp":" Applewood",
+       "item":"115"
+    },
+    {
+       "level":"30",
+       "xp":" Willow Logs",
+       "item":"350"
+    },
+    {
+       "level":"40",
+       "xp":" Oak Logs",
+       "item":"475"
+    },
+    {
+       "level":"50",
+       "xp":" Chestnut Logs",
+       "item":"650"
+    },
+    {
+       "level":"60",
+       "xp":" Maple Logs",
+       "item":"1200"
+    },
+    {
+       "level":"70",
+       "xp":" Olive Logs",
+       "item":"1800"
+    }
+ ]

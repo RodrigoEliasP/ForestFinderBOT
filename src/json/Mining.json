@@ -1,0 +1,52 @@
+[
+    {
+        "levelRequired":1,
+        "ore": "Tin",
+        "xp": 10
+    },
+    {
+        "levelRequired":1,
+        "ore": "Copper",
+        "xp": 10
+    },
+    {
+        "levelRequired":10,
+        "ore": "Iron",
+        "xp": 50
+    },
+    {
+        "levelRequired":20,
+        "ore": "Coal",
+        "xp": 116
+    },
+    {
+        "levelRequired":25,
+        "ore": "Silver",
+        "xp": 135
+    },
+    {
+        "levelRequired":30,
+        "ore": "Crimsteel",
+        "xp": 350
+    },
+    {
+        "levelRequired":40,
+        "ore": "Gold",
+        "xp": 450
+    },
+    {
+        "levelRequired":50,
+        "ore": "Mythan",
+        "xp": 650
+    },
+    {
+        "levelRequired":60,
+        "ore": "Cobalt",
+        "xp": 1200
+    },
+    {
+        "levelRequired":70,
+        "ore": "Varaxium",
+        "xp": 1800
+    }
+]

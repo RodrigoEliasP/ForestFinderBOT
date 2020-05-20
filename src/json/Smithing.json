@@ -1,0 +1,136 @@
+[
+    {
+        "item": "Bronze Bar",
+        "smeltingXp": 3,
+        "forgingXp": 5,
+        "items": [
+            {
+                "item": "Cooper oue",
+                "quantity": 2
+            },
+            {
+                "item": "Tin ore",
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "item": "Iron Bar",
+        "smeltingXp": 8,
+        "forgingXp": 14,
+        "items": [
+            {
+                "item": "Iron ore",
+                "quantity": 3
+            }
+        ]
+    },
+    {
+        "item": "Steel Bar",
+        "smeltingXp": 14,
+        "forgingXp": 20,
+        "items": [
+            {
+                "item": "Iron ore",
+                "quantity": 2
+            },
+            {
+                "item": "Coal",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "item": "Crimsteel Bar",
+        "smeltingXp": 25,
+        "forgingXp": 130,
+        "items": [
+            {
+                "item": "Crimsteel ore",
+                "quantity": 2
+            },
+            {
+                "item": "Coal",
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "item": "Silver Bar",
+        "smeltingXp": 50,
+        "forgingXp": 0,
+        "items": [
+            {
+                "item": "Silver ore",
+                "quantity": 4
+            }
+        ]
+    },
+    {
+        "item": "Gold Nugget",
+        "smeltingXp": 60,
+        "forgingXp": 0,
+        "items": [
+            {
+                "item": "Gold",
+                "quantity": 16
+            }
+        ]
+    },
+    {
+        "item": "Gold Bar",
+        "smeltingXp": 60,
+        "forgingXp": 20000,
+        "items": [
+            {
+                "item": "Gold Nugget",
+                "quantity": 16
+            }
+        ]
+    },
+    {
+        "item": "Mythan Bar",
+        "smeltingXp": 100,
+        "forgingXp": 5000,
+        "items": [
+            {
+                "item": "Mythan ore",
+                "quantity": 10
+            },
+            {
+                "item": "Coal",
+                "quantity": 5
+            }
+        ]
+    },
+    {
+        "item": "Cobalt Bar",
+        "smeltingXp": 200,
+        "forgingXp": 15000,
+        "items": [
+            {
+                "item": "Cobalt ore",
+                "quantity": 8
+            },
+            {
+                "item": "Coal",
+                "quantity": 5
+            }
+        ]
+    },
+    {
+        "item": "Varaxite Bar",
+        "smeltingXp": 350,
+        "forgingXp": 20000,
+        "items": [
+            {
+                "item": "Cobalt ore",
+                "quantity": 3
+            },
+            {
+                "item": "Varaxium",
+                "quantity": 6
+            }
+        ]
+    }
+]
